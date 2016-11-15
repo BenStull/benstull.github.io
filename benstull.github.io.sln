@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "benstull.github.io", "benstull.github.io\benstull.github.io.csproj", "{08C0951B-7F99-434F-98C6-0D00ECFDA8BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "benstull.github.io", ".\benstull.github.io.csproj", "{08C0951B-7F99-434F-98C6-0D00ECFDA8BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
