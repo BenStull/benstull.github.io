@@ -43,22 +43,28 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="images\body-bg.png" />
-    <Content Include="images\highlight-bg.jpg" />
-    <Content Include="images\hr.png" />
-    <Content Include="images\octocat-icon.png" />
-    <Content Include="images\tar-gz-icon.png" />
-    <Content Include="images\zip-icon.png" />
     <Content Include="index.html" />
-    <Content Include="javascripts\main.js" />
-    <Content Include="packages.config" />
-    <Content Include="stylesheets\github-dark.css" />
-    <Content Include="stylesheets\print.css" />
-    <Content Include="stylesheets\stylesheet.css" />
-    <Content Include="UpgradeLog.htm" />
+    <Content Include="_includes\analytics.html" />
+    <Content Include="_includes\disqus.html" />
+    <Content Include="_includes\meta.html" />
+    <Content Include="_includes\svg-icons.html" />
+    <Content Include="_layouts\default.html" />
+    <Content Include="_layouts\page.html" />
+    <Content Include="_layouts\post.html" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="params.json" />
+    <Content Include="404.md" />
+    <Content Include="about.md" />
+    <Content Include="CNAME" />
+    <Content Include="LICENSE" />
+    <Content Include="README.md" />
+    <Content Include="style.scss" />
+    <Content Include="_config.yml" />
+    <Content Include="_posts\2016-11-14-Welcome.md" />
+    <Content Include="_sass\_highlights.scss" />
+    <Content Include="_sass\_reset.scss" />
+    <Content Include="_sass\_svg-icons.scss" />
+    <Content Include="_sass\_variables.scss" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
